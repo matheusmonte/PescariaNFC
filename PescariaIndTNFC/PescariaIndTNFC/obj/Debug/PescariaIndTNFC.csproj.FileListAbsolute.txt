@@ -19,3 +19,26 @@ c:\users\mmonte\documents\visual studio 2012\Projects\PescariaIndTNFC\PescariaIn
 c:\users\mmonte\documents\visual studio 2012\Projects\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\XapCacheFile.xml
 c:\users\mmonte\documents\visual studio 2012\Projects\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\NdefLibrary.dll
 c:\users\mmonte\documents\visual studio 2012\Projects\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.csprojResolveAssemblyReference.cache
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\ApplicationIcon.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\PescariaIndTNFC.dll
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\PescariaIndTNFC.pdb
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\AppManifest.xaml
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Properties\WMAppManifest.xml
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\PescariaIndTNFC_Debug_AnyCPU.xap
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.csprojResolveAssemblyReference.cache
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\App.g.cs
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\MainPage.g.cs
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.g.resources
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.Resources.AppResources.resources
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.csproj.GenerateResource.Cache
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.dll
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\PescariaIndTNFC.pdb
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\XapCacheFile.xml
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Sound\agua.wav
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Imagens\pacoca.jpg
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Sound\aplauso.wav

@@ -12,6 +12,9 @@ using NdefLibrary.Ndef;
 using System.Text;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Microsoft.Devices;
+using System.Windows.Media.Imaging;
+using System.Windows.Media;
+
 
 
 namespace PescariaIndTNFC
@@ -27,8 +30,7 @@ namespace PescariaIndTNFC
         {
             InitializeComponent();
             NFCBegin();
-      
-
+           
           
         }
         #region NFC
@@ -60,10 +62,25 @@ namespace PescariaIndTNFC
             {
                 Random rand = new Random();
                 
-                MessageBox.Show("Voce ganhou o premio "  + rand.Next(1,10).ToString());
+              //  MessageBox.Show("Voce ganhou o premio "  + rand.Next(1,10).ToString());
+                AguaSom.Stop();
+                Aplauso.Play();
+                ImageSource premio = new BitmapImage(new Uri("/Imagens/pacoca.jpg", UriKind.RelativeOrAbsolute));
+               foto.Source = premio;
+               foto.Stretch = Stretch.Fill;
             });
         }
         #endregion
+
+        private void AguaSom_MediaEnded(object sender, RoutedEventArgs e)
+        {
+            AguaSom.Play();
+        }
+
+        private void Aplauso_MediaEnded(object sender, RoutedEventArgs e)
+        {
+            Aplauso.Play();
+        }
 
     }
 }
