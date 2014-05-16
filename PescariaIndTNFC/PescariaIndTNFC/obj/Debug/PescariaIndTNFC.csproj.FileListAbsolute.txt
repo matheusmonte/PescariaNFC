@@ -42,3 +42,4 @@ C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\obj\Debug\XapCacheFile.
 C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Sound\agua.wav
 C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Imagens\pacoca.jpg
 C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Sound\aplauso.wav
+C:\workspace\PescariaNFC\PescariaIndTNFC\PescariaIndTNFC\Bin\Debug\Imagens\chinelo.jpg

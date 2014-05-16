@@ -61,12 +61,22 @@ namespace PescariaIndTNFC
             Dispatcher.BeginInvoke(() =>
             {
                 Random rand = new Random();
-                
+                int nRand = rand.Next(1, 2);
               //  MessageBox.Show("Voce ganhou o premio "  + rand.Next(1,10).ToString());
                 AguaSom.Stop();
                 Aplauso.Play();
-                ImageSource premio = new BitmapImage(new Uri("/Imagens/pacoca.jpg", UriKind.RelativeOrAbsolute));
-               foto.Source = premio;
+                ImageSource premio;
+                if (nRand == 1)
+                {
+                     premio = new BitmapImage(new Uri("/Imagens/pacoca.jpg", UriKind.RelativeOrAbsolute));
+                     foto.Source = premio;
+                }
+                if (nRand == 2)
+                {
+                    premio = new BitmapImage(new Uri("/Imagens/chinelo.jpg", UriKind.RelativeOrAbsolute));
+                    foto.Source = premio;
+                }
+              
                foto.Stretch = Stretch.Fill;
             });
         }
